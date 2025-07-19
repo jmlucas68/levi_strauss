@@ -1,1 +1,1 @@
-\"Actualizaci¢n final de im genes en index.html y subida de estructuralismo.jpg\" 
+\"Corregida la ruta de la imagen del autor en index.html.\" 
