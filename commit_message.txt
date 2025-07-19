@@ -1,1 +1,1 @@
-\"Actualizadas im genes en index.html\" 
+\"Actualizadas las rutas de las im genes en index.html.\" 
