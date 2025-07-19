@@ -1,1 +1,1 @@
-\"Copiada imagen de autor a repositorio local y actualizada ruta en index.html.\" 
+\"Cambios realizados por el usuario.\" 
