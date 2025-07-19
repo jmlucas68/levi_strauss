@@ -1,1 +1,1 @@
-\"Corregida la ruta de la imagen del autor en index.html.\" 
+\"Copiada imagen de autor a repositorio local y actualizada ruta en index.html.\" 
